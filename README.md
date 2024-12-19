@@ -1,3 +1,7 @@
+# instruction
+4 the 0.18 version of mēmos. Just modify the APIURL.
+And the following content is fored from [raycast/extensions](https://github.com/raycast/extensions)
+
 # Send To Memos
 
 [Raycast](https://www.raycast.com) extension for [usememos/memos](https://github.com/usememos/memos).
